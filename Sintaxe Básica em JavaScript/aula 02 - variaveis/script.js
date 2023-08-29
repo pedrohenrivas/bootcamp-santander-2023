@@ -92,11 +92,11 @@
 // console.log(menorOuIgual);
 
 // Operadores Lógicos
-var e = true && true;
-console.log(e);
+// var e = true && true;
+// console.log(e);
 
-var ou = false || false;
-console.log(ou);
+// var ou = false || false;
+// console.log(ou);
 
-var nao = !true;
-console.log(nao);
+// var nao = !true;
+// console.log(nao);
